@@ -1,0 +1,38 @@
+h1 {
+    color: darkorange; text-align: center;
+}
+.redp {
+    color: darkred;
+}
+.bluep {
+    color: mediumblue;
+}
+.greenp {
+    color: mediumseagreen;
+}
+.big {
+    font-size: x-large;
+}
+.tiny {
+    font-size: x-small;
+}
+.center {
+    text-align: center;
+}
+.bold {
+    font-weight: bold;
+}
+.dfont {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bob {
+    font-size: x-large; color: orange; font-weight: bold;
+}
+.styledFont {
+    font-style: oblique;
+}
+#styledImage {
+    border: solid;
+    border-color:rgb(105, 163, 17) ;
+    border-width: 3.5mm;
+}
